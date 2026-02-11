@@ -6,7 +6,7 @@ set -euo pipefail
 
 INSTALL_DIR="$HOME/.claude/hooks/peon-ping"
 SETTINGS="$HOME/.claude/settings.json"
-REPO_BASE="https://raw.githubusercontent.com/tonyyont/peon-ping/main"
+REPO_BASE="https://raw.githubusercontent.com/mobuchowski/peon-ping/main"
 
 # All available sound packs (add new packs here)
 PACKS="peon peon_fr peon_pl peasant peasant_fr ra2_soviet_engineer sc_battlecruiser sc_kerrigan"

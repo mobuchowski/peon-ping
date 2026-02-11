@@ -13,7 +13,7 @@ Claude Code doesn't notify you when it finishes or needs permission. You tab awa
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tonyyont/peon-ping/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mobuchowski/peon-ping/main/install.sh | bash
 ```
 
 One command. Takes 10 seconds. macOS only. Re-run to update (sounds and config preserved).
@@ -79,7 +79,7 @@ Edit `~/.claude/hooks/peon-ping/config.json`:
 
 | Pack | Character | Sounds | By |
 |---|---|---|---|
-| `peon` (default) | Orc Peon (Warcraft III) | "Ready to work?", "Work, work.", "Okie dokie." | [@tonyyont](https://github.com/tonyyont) |
+| `peon` (default) | Orc Peon (Warcraft III) | "Ready to work?", "Work, work.", "Okie dokie." | [@mobuchowski](https://github.com/mobuchowski) |
 | `peon_fr` | Orc Peon (Warcraft III, French) | "Prêt à travailler?", "Travail, travail.", "D'accord." | [@thomasKn](https://github.com/thomasKn) |
 | `peon_pl` | Orc Peon (Warcraft III, Polish) | Polish voice lines | [@askowronski](https://github.com/askowronski) |
 | `peasant` | Human Peasant (Warcraft III) | "Yes, milord?", "Job's done!", "Ready, sir." | [@thomasKn](https://github.com/thomasKn) |
